@@ -6,7 +6,6 @@
 import unittest
 from click.testing import CliRunner
 
-from nathproject import nathproject
 from nathproject import cli
 
 
