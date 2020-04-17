@@ -11,6 +11,7 @@ To install it :
 
 Nb : if  the install fails it maybe caused by the wrong installation of required lib.
 (Normally the setup.py specifies all the requirements )
+
  The cmds are as follows:
 
  Producer :
@@ -25,7 +26,7 @@ Run a server kafka Locally
 [https://kafka.apache.org/quickstart](https://kafka.apache.org/quickstart)
 
  We run here the Kafka Server and the Zookeeper separately, but we can use a docker image to run it and also to create a cluster by setting the zookeeper.properties and zookeeper.properties to define the addresses of the different brokers.
- s
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MjgwNTExNiwyODMyOTE1MDZdfQ==
+eyJoaXN0b3J5IjpbMTI1MjIxODA2NywyODMyOTE1MDZdfQ==
 -->
