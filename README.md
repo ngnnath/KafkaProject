@@ -7,7 +7,7 @@ The project template is from cookiecutter framework.
 
 To install it :
 
-    sudo python3 setup install
+    sudo python3 setup.py install
 
 Nb : if  the install fails it maybe caused by the wrong installation of required lib.
 (Normally the setup.py specifies all the requirements )
@@ -28,5 +28,6 @@ Run a server kafka Locally
  We run here the Kafka Server and the Zookeeper separately, but we can use a docker image to run it and also to create a cluster by setting the zookeeper.properties and zookeeper.properties to define the addresses of the different brokers.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODMwODUyMywyODMyOTE1MDZdfQ==
+eyJoaXN0b3J5IjpbMTg5NjA3MTUwOCwtODQ4MzA4NTIzLDI4Mz
+I5MTUwNl19
 -->
